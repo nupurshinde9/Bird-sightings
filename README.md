@@ -39,3 +39,9 @@ And now you should be able to see the app at http://localhost:3000/
 * app.js - central app file for the project
 * package.json - package info for the project
 
+## Later improvements
+
+* Pagination
+* Separate layer for database
+* Third-party library for CSS
+

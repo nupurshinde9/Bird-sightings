@@ -6,7 +6,7 @@ A simple website that lets people record their bird sightings and view a list of
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/nupurshinde9/Bird-spotting.git
+git clone https://github.com/nupurshinde9/Bird-sightings.git
 ```
 and install the dependencies
 ```
